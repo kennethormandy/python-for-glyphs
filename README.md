@@ -6,6 +6,7 @@ These are text editor snippets intended to facilitate Python development for Gly
 
 * TextMate bundle: double click to install
 * Sublime Text 2 snippets: move to `~/Library/Application Support/Sublime Text 2/Packages/User/`
+* Atom: move to `~/.atom/packages/python-to-glyphs`
 
 ### License
 
