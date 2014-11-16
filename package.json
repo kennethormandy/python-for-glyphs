@@ -1,12 +1,11 @@
 {
   "name": "python-for-glyphs",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "These are text editor snippets intended to facilitate Python development for Glyphs.app. Have fun.",
   "repository": "https://github.com/kennethormandy/python-for-glyphs",
   "license": "Apache License, Version 2.0",
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
